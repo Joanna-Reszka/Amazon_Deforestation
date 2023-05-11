@@ -39,14 +39,13 @@ Deforestation happens for many reasons, such as illegal agriculture, natural dis
 
 ### Insights from the analysys 
 
-##### After cleaning and transforming data, the exploratory data analysis revealed:
+#### Map Charts made in Tableau showing:
+1) primary forest coverage in each state in 2001
+2) percent of deforested area till 2020
+3) deforested area till 2020
 
-![obraz.png](attachment:54973c2a-a42b-4c59-bd31-95e7077a64f1.png)
+![obraz](https://github.com/Joanna-Reszka/Amazon_Deforestation/assets/97312220/d0841d65-2132-48d0-b4f4-12c4c856bfd6)
 
-##### Map Charts made in Tableau showing:
-###### primary forest coverage in each state in 2001
-###### percent of deforested area till 2020
-###### deforested area till 2020
     
 #### Insights:
 
@@ -103,4 +102,3 @@ Deforestation happens for many reasons, such as illegal agriculture, natural dis
 <br />
 
 ### Conclusions
-
