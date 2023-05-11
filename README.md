@@ -13,7 +13,7 @@ The region provides important benefits to communities living near and far. Nearl
 Deforestation happens for many reasons, such as illegal agriculture, natural disasters, urbanization and mining. There are several ways to remove forests - burning and logging are two methods. Although deforestation is happening all over the world today, it is an especially critical issue in the Amazon rainforests, as the only large forest still standing in the world. There, the species of plants and animals they harbor have been disappearing at an alarming rate.
 
 Below image showing the pattern of deforestation comes NASA Earth Observatory website:
-https://earthobservatory.nasa.gov/images/145649/mapping-the-amazon
+##### https://earthobservatory.nasa.gov/images/145649/mapping-the-amazon
 
 ![obraz](https://github.com/Joanna-Reszka/Amazon_Deforestation/assets/97312220/ca556cda-7d84-4dfd-bd4f-da5769e1ce94)
 
