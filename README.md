@@ -44,7 +44,7 @@ Below image showing the pattern of deforestation comes NASA Earth Observatory we
 <br />  
 
 ### Insights from the analysys 
-
+###
 #### Map Charts made in Tableau showing:
 1) primary forest coverage in each state in 2001
 2) percent of deforested area till 2020
@@ -59,7 +59,7 @@ Below image showing the pattern of deforestation comes NASA Earth Observatory we
 ##### - most intense deforestation in Para, Mato Grosso, Rondonia, Amazonas
 ##### - deforestation creeping from the south
 
-
+####
 ##### Map Charts made in Tableau showing:
 1) intensity of total deforestation each year between 2004-2019 and cumulative total deforestation
 2) intensity of deforestation in each region each year between 2004-2019
@@ -72,7 +72,7 @@ Below image showing the pattern of deforestation comes NASA Earth Observatory we
 ##### - most intense deforestation in 2004 and than steadily decreasing
 ##### - more or less stable between 2009-2018
 ##### - increase in deforestation since 2018 in Amazonas, Para, Acre, Roraima
-
+####
 ##### Map Chart made in Tableau showing intensity and localization of firespots between 1999 and 2019
 
 ![obraz](https://github.com/Joanna-Reszka/Amazon_Deforestation/assets/97312220/77f6a84f-6646-4432-a022-5ec675c3635c)
@@ -82,7 +82,7 @@ Below image showing the pattern of deforestation comes NASA Earth Observatory we
 ##### - most intense fires aggregated around agglomertions
 ##### - states with most intense fires Para, Mato Grosso, Rondonia, so the same states with intense deforestation
 
-
+####
 ##### Map Charts made in Tableau showing:
 1) intensity of total deforestation each year between 2004-2019 and number of fires
 2) intensity of deforestation in each region each year between 2004-2019 and number of fires
