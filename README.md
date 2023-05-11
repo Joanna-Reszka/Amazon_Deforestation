@@ -10,9 +10,6 @@ The Amazon rainforest is a moist broadleaf tropical rainforest in the Amazon bio
 
 The region provides important benefits to communities living near and far. Nearly 500 indigenous communities call the Amazon rainforest home. It’s a highly biodiverse ecosystem, home to untold species of plants and animals. The rainforest can create its own weather and influence climates around the world. Unfortunately, the fragile ecosystem faces the constant threat of deforestation and fires (for natural or anthropogenic causes).
 
-![obraz](https://github.com/Joanna-Reszka/Amazon_Deforestation/assets/97312220/ba1d5d94-6185-4f0c-a059-1d1392db438a)
-
-
 Deforestation happens for many reasons, such as illegal agriculture, natural disasters, urbanization and mining. There are several ways to remove forests - burning and logging are two methods. Although deforestation is happening all over the world today, it is an especially critical issue in the Amazon rainforests, as the only large forest still standing in the world. There, the species of plants and animals they harbor have been disappearing at an alarming rate.
 
 Below image showing the pattern of deforestation comes NASA Earth Observatory website:
