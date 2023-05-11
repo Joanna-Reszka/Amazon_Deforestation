@@ -53,43 +53,35 @@ Deforestation happens for many reasons, such as illegal agriculture, natural dis
 ##### - most intense deforestation in Para, Mato Grosso, Rondonia, Amazonas
 ##### - deforestation creeping from the south
 
-![obraz.png](attachment:6acc9f21-5867-4ca7-b231-e890658610b1.png)
 
 ##### Map Charts made in Tableau showing:
-###### intensity of total deforestation each year between 2004-2019 and cumulative total deforestation
-###### intensity of deforestation in each region each year between 2004-2019
+1) intensity of total deforestation each year between 2004-2019 and cumulative total deforestation
+2) intensity of deforestation in each region each year between 2004-2019
+
+![obraz](https://github.com/Joanna-Reszka/Amazon_Deforestation/assets/97312220/cde2c11a-12b0-4b18-ae5d-21be975c48c6)
+
 
 #### Insights:
 
 ##### - most intense deforestation in 2004 and than steadily decreasing
 ##### - more or less stable between 2009-2018
 ##### - increase in deforestation since 2018 in Amazonas, Para, Acre, Roraima
-
-![obraz.png](attachment:64aa382a-e961-4765-910f-9197454a5000.png)
-
-##### Charts made in Tableau showing:
-###### intensity of total deforestation each year between 2004-2019 and number of fires
-###### intensity of deforestation in each region each year between 2004-2019 and number of fires
-
-#### Insights:
-
-##### - most intense deforestation in 2004 and than steadily decreasing
-##### - more or less stable between 2009-2018
-##### - increase in deforestation since 2018 in Amazonas, Para, Acre, Roraima
-
-![obraz.png](attachment:5fee5e71-232b-4f67-a4d1-60e254edf5d5.png)
 
 ##### Map Chart made in Tableau showing intensity and localization of firespots between 1999 and 2019
 
+
+
 #### Insights:
-##### - most intense fires aggregated aroun agglomertions
+##### - most intense fires aggregated around agglomertions
 ##### - states with most intense fires Para, Mato Grosso, Rondonia, so the same states with intense deforestation
+
+
+##### Map Charts made in Tableau showing:
+1) intensity of total deforestation each year between 2004-2019 and number of fires
+2) intensity of deforestation in each region each year between 2004-2019 and number of fires
 
 ![obraz.png](attachment:64aa382a-e961-4765-910f-9197454a5000.png)
 
-##### Map Charts made in Tableau showing:
-##### intensity of total deforestation each year between 2004-2019 and number of fires
-##### intensity of deforestation in each region each year between 2004-2019 and number of fires
 
 #### Insights:
 ##### - strong correlation between number of fires and deforestation at 0.906
