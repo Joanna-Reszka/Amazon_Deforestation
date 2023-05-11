@@ -5,11 +5,14 @@
 https://www.kaggle.com/datasets/mbogernetto/brazilian-amazon-rainforest-degradation
 <br />
 ### Introduction
+
 The Amazon rainforest is a moist broadleaf tropical rainforest in the Amazon biome that covers territory belonging to nine nations. The majority of the forest is contained within Brazil, with 60% of the rainforest, followed by Peru with 13%, Colombia with 10%, and with minor amounts in Venezuela, Ecuador, Bolivia, Guyana, Suriname and French Guiana.
 
 The region provides important benefits to communities living near and far. Nearly 500 indigenous communities call the Amazon rainforest home. It’s a highly biodiverse ecosystem, home to untold species of plants and animals. The rainforest can create its own weather and influence climates around the world. Unfortunately, the fragile ecosystem faces the constant threat of deforestation and fires (for natural or anthropogenic causes).
 
 Deforestation happens for many reasons, such as illegal agriculture, natural disasters, urbanization and mining. There are several ways to remove forests - burning and logging are two methods. Although deforestation is happening all over the world today, it is an especially critical issue in the Amazon rainforests, as the only large forest still standing in the world. There, the species of plants and animals they harbor have been disappearing at an alarming rate.
+
+### Dataset
 
 #### The dataset consists of 3 tables:
 
@@ -17,6 +20,8 @@ Deforestation happens for many reasons, such as illegal agriculture, natural dis
 2)  nr of firespots each month each year [1999-2019] in each state
 3)  information on appearance of El Ninio or La nina and its severity
 4)  additional table with area of each state (km 2) and forested area in 2001 and 2020
+
+### Questions
 
 #### Through the analysis of this dataset we want to shed light on the following issues:
 
@@ -30,8 +35,10 @@ Deforestation happens for many reasons, such as illegal agriculture, natural dis
 #### 3. El Nino/La Nina:
 ##### - is there an effect of climate phenomenas El Niño and La Niña on deforestation?
 ##### - is there a correlation between climate phenomenas El Niño and La Niña and nr of fires?
-<br />        
-### Insights from the analysys       
+<br />  
+
+### Insights from the analysys 
+
 ##### After cleaning and transforming data, the exploratory data analysis revealed:
 
 ![obraz.png](attachment:54973c2a-a42b-4c59-bd31-95e7077a64f1.png)
@@ -94,5 +101,6 @@ Deforestation happens for many reasons, such as illegal agriculture, natural dis
 ##### l Nino and La Nina seem to be very weakly correlated with intensity of deforestation and number of fires suggesting, 
 ##### that the fires appearing are not natural fires resulting from dryness brought by El nino, but man-made fires aiming at deforestation.
 <br />
+
 ### Conclusions
 
