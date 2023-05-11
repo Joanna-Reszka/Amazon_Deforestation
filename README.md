@@ -15,6 +15,9 @@ Deforestation happens for many reasons, such as illegal agriculture, natural dis
 Below image showing the pattern of deforestation comes NASA Earth Observatory website:
 https://earthobservatory.nasa.gov/images/145649/mapping-the-amazon
 
+![obraz](https://github.com/Joanna-Reszka/Amazon_Deforestation/assets/97312220/ca556cda-7d84-4dfd-bd4f-da5769e1ce94)
+
+
 ### Dataset
 
 #### The dataset consists of 3 tables:
