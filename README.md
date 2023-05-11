@@ -69,6 +69,7 @@ Deforestation happens for many reasons, such as illegal agriculture, natural dis
 
 ##### Map Chart made in Tableau showing intensity and localization of firespots between 1999 and 2019
 
+![obraz](https://github.com/Joanna-Reszka/Amazon_Deforestation/assets/97312220/77f6a84f-6646-4432-a022-5ec675c3635c)
 
 
 #### Insights:
