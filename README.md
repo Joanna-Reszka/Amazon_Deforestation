@@ -26,6 +26,7 @@ Below image showing the pattern of deforestation comes NASA Earth Observatory we
 2)  nr of firespots each month each year [1999-2019] in each state
 3)  information on appearance of El Ninio or La nina and its severity
 4)  additional table with area of each state (km 2) and forested area in 2001 and 2020
+5)  additional data with GDP for Brazilian regions in 1999-2019 (https://www.statista.com/)
 
 ### Questions
 
@@ -41,6 +42,8 @@ Below image showing the pattern of deforestation comes NASA Earth Observatory we
 #### 3. El Nino/La Nina:
 ##### - is there an effect of climate phenomenas El Niño and La Niña on deforestation?
 ##### - is there a correlation between climate phenomenas El Niño and La Niña and nr of fires?
+#### 4. GDP:
+##### - is there an association of GDP with intensity of deforestation?
 <br />  
 
 ### Insights from the analysys 
@@ -102,27 +105,35 @@ La Nina has the opposite effect of bringing cooling and moist and decreasing fir
 ##### Charts made in Tableau showing:
 1) intensity fires each year between 2004-2019 and severity of El Nino with correlation coefficient
 2) intensity of deforestation  between 2004-2019 and severity of El Nino with correlation coefficient
-3) the correlation of El Nino per region
+3) the correlation of El Nino and fires per region
 ![obraz](https://github.com/Joanna-Reszka/Amazon_Deforestation/assets/97312220/855f221b-5039-438d-9392-6f4447a7ca22)
 
 #### Insights:
 ##### - lack of general correlation (at 0.15) between number of fires and El Nino 
-##### - lack of general correlation (at 0.09 ) between deforestation and number and El Nino
-##### - regions with moderate correlation of El Ninio with fires are Amazonas, Roraima and Amapa - where most of the area is not heavilly logged, so in other words we can see the expected correlation of increased fire risk with severe El Nino in regions tahat mostly respond to natural factors without human induced deforestation.
+##### - lack of general correlation (at 0.09 ) between deforestation and El Nino
+##### - regions with moderate correlation of El Ninio with fires are Amazonas, Roraima and Amapa - where most of the area is not heavilly deforested, so in other words we can see the expected correlation of increased fire risk with severe El Nino in regions tahat mostly respond to natural factors without human induced deforestation.
 
 ##### Charts made in Tableau showing:
-1) intensity fires each year between 2004-2019 and severity of El Nino with correlation coefficient
-2) intensity of deforestation  between 2004-2019 and severity of El Nino with correlation coefficient
-3) the correlation of El Nino per region
-![obraz](https://github.com/Joanna-Reszka/Amazon_Deforestation/assets/97312220/855f221b-5039-438d-9392-6f4447a7ca22)
+1) intensity fires each year between 2004-2019 and severity of La Nina with correlation coefficient
+2) intensity of deforestation  between 2004-2019 and severity of La Nina with correlation coefficient
+3) the correlation of La Nina and fires per region
+![obraz](https://github.com/Joanna-Reszka/Amazon_Deforestation/assets/97312220/e1515270-c4a5-46fb-b594-8c492ed3fd59)
 
 #### Insights:
-##### - lack of general correlation (at 0.15) between number of fires and El Nino 
-##### - lack of general correlation (at 0.09 ) between deforestation and number and El Nino
-##### - regions with moderate correlation of El Ninio with fires are Amazonas, Roraima and Amapa - where most of the area is not heavilly logged, so in other words we can see the expected correlation of increased fire risk with severe El Nino in regions tahat mostly respond to natural factors without human induced deforestation.
+##### - lack of general correlation (at -0.15) between number of fires and La Nina
+##### - lack of general correlation (at -0.19 ) between deforestation and number and La Nina
+##### - region with moderate correlation of La Nina with (lack of) fires is costal Amapa probably, while other two costal states like Para and Maranhao    still have fires even in La Nina periods due to human induced fires and deforestation.
 
-##### l Nino and La Nina seem to be very weakly correlated with intensity of deforestation and number of fires suggesting, 
-##### that the fires appearing are not natural fires resulting from dryness brought by El nino, but man-made fires aiming at deforestation.
-<br />
+#### 3. GDP
+##### Charts made in Tableau showing:
+1) intensity fires each year between 2004-2019 and severity of La Nina with correlation coefficient
+2) intensity of deforestation  between 2004-2019 and severity of La Nina with correlation coefficient
+3) the correlation of La Nina and fires per region
+![obraz](https://github.com/Joanna-Reszka/Amazon_Deforestation/assets/97312220/e1515270-c4a5-46fb-b594-8c492ed3fd59)
 
-### Conclusions
+#### Insights:
+##### - lack of general correlation (at -0.15) between number of fires and La Nina
+##### - lack of general correlation (at -0.19 ) between deforestation and number and La Nina
+##### - region with moderate correlation of La Nina with (lack of) fires is costal Amapa probably, while other two costal states like Para and Maranhao    still have fires even in La Nina periods due to human induced fires and deforestation.
+
+### Conclusions and reccomendations
