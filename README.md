@@ -31,7 +31,7 @@ Below image showing the pattern of deforestation comes NASA Earth Observatory we
 
 #### Through the analysis of this dataset we want to shed light on the following issues:
 
-#### 1. Deforestation:
+#### 1. Deforestation
 ##### - is intensity of deforestation growing or decreasing between 2004 and 2019?
 ##### - what is the scale and intensity of deforestation in different states?
 ##### - is there a spatial pattern of deforestation?
@@ -45,6 +45,7 @@ Below image showing the pattern of deforestation comes NASA Earth Observatory we
 
 ### Insights from the analysys 
 ###
+#### 1. Deforestation:
 #### Map Charts made in Tableau showing:
 1) primary forest coverage in each state in 2001
 2) percent of deforested area till 2020
@@ -60,7 +61,7 @@ Below image showing the pattern of deforestation comes NASA Earth Observatory we
 ##### - deforestation creeping from the south
 
 ####
-##### Map Charts made in Tableau showing:
+##### Charts made in Tableau showing:
 1) intensity of total deforestation each year between 2004-2019 and cumulative total deforestation
 2) intensity of deforestation in each region each year between 2004-2019
 
@@ -77,13 +78,13 @@ Below image showing the pattern of deforestation comes NASA Earth Observatory we
 
 ![obraz](https://github.com/Joanna-Reszka/Amazon_Deforestation/assets/97312220/77f6a84f-6646-4432-a022-5ec675c3635c)
 
-
+#### 2. Fires
 #### Insights:
 ##### - most intense fires aggregated around agglomertions
 ##### - states with most intense fires Para, Mato Grosso, Rondonia, so the same states with intense deforestation
 
 ####
-##### Map Charts made in Tableau showing:
+##### Charts made in Tableau showing:
 1) intensity of total deforestation each year between 2004-2019 and number of fires
 2) intensity of deforestation in each region each year between 2004-2019 and number of fires
 
@@ -95,6 +96,30 @@ Below image showing the pattern of deforestation comes NASA Earth Observatory we
 ##### - states with strongest correlation coefficients between deforestation and number of fires are notorious:
 #####    Rondonia (0.907), Mato Grosso (0,838) and Para(0,767)
 
+#### 3. El Nino/La Nina
+##### El Ninio is regular climatic phenomenon bringing heavy droughts and increasing fire risk.
+La Nina has the opposite effect of bringing cooling and moist and decreasing fire risk.
+##### Charts made in Tableau showing:
+1) intensity fires each year between 2004-2019 and severity of El Nino with correlation coefficient
+2) intensity of deforestation  between 2004-2019 and severity of El Nino with correlation coefficient
+3) the correlation of El Nino per region
+![obraz](https://github.com/Joanna-Reszka/Amazon_Deforestation/assets/97312220/855f221b-5039-438d-9392-6f4447a7ca22)
+
+#### Insights:
+##### - lack of general correlation (at 0.15) between number of fires and El Nino 
+##### - lack of general correlation (at 0.09 ) between deforestation and number and El Nino
+##### - regions with moderate correlation of El Ninio with fires are Amazonas, Roraima and Amapa - where most of the area is not heavilly logged, so in other words we can see the expected correlation of increased fire risk with severe El Nino in regions tahat mostly respond to natural factors without human induced deforestation.
+
+##### Charts made in Tableau showing:
+1) intensity fires each year between 2004-2019 and severity of El Nino with correlation coefficient
+2) intensity of deforestation  between 2004-2019 and severity of El Nino with correlation coefficient
+3) the correlation of El Nino per region
+![obraz](https://github.com/Joanna-Reszka/Amazon_Deforestation/assets/97312220/855f221b-5039-438d-9392-6f4447a7ca22)
+
+#### Insights:
+##### - lack of general correlation (at 0.15) between number of fires and El Nino 
+##### - lack of general correlation (at 0.09 ) between deforestation and number and El Nino
+##### - regions with moderate correlation of El Ninio with fires are Amazonas, Roraima and Amapa - where most of the area is not heavilly logged, so in other words we can see the expected correlation of increased fire risk with severe El Nino in regions tahat mostly respond to natural factors without human induced deforestation.
 
 ##### l Nino and La Nina seem to be very weakly correlated with intensity of deforestation and number of fires suggesting, 
 ##### that the fires appearing are not natural fires resulting from dryness brought by El nino, but man-made fires aiming at deforestation.
