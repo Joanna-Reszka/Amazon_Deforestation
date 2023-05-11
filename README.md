@@ -25,7 +25,7 @@ Below image showing the pattern of deforestation comes NASA Earth Observatory we
 1)  deforested area in square km each year [2004-2019] in each of 9 states 
 2)  nr of firespots each month each year [1999-2019] in each state
 3)  information on appearance of El Ninio or La nina and its severity
-4)  additional table with area of each state (km 2) and forested area in 2001 and 2020
+4)  additional table with area of each state (km 2) and forested area in 2001 and 2020 (https://rainforests.mongabay.com/brazil/)
 5)  additional data with GDP for Brazilian regions in 1999-2019 (https://www.statista.com/)
 
 ### Questions
@@ -126,14 +126,14 @@ La Nina has the opposite effect of bringing cooling and moist and decreasing fir
 
 #### 3. GDP
 ##### Charts made in Tableau showing:
-1) intensity fires each year between 2004-2019 and severity of La Nina with correlation coefficient
-2) intensity of deforestation  between 2004-2019 and severity of La Nina with correlation coefficient
-3) the correlation of La Nina and fires per region
-![obraz](https://github.com/Joanna-Reszka/Amazon_Deforestation/assets/97312220/e1515270-c4a5-46fb-b594-8c492ed3fd59)
+1) GDP perBprazilian state
+2) intensity of deforestation between 2004-2019 and total GDP for Brazil 
+![obraz](https://github.com/Joanna-Reszka/Amazon_Deforestation/assets/97312220/33ca41ae-1923-4354-b3cd-2c274e5e7d96)
 
 #### Insights:
-##### - lack of general correlation (at -0.15) between number of fires and La Nina
-##### - lack of general correlation (at -0.19 ) between deforestation and number and La Nina
-##### - region with moderate correlation of La Nina with (lack of) fires is costal Amapa probably, while other two costal states like Para and Maranhao    still have fires even in La Nina periods due to human induced fires and deforestation.
+##### - regions with Highest deforestation are among those with lowest GDP
+##### - there seem to be an association between growing GDP between 2004-2010 and decreasing deforestation, and when GDP starts dropping again from 2015, deforestation intensifies again
 
 ### Conclusions and reccomendations
+
+#### Amazon as very precious biom should be protected by global community
