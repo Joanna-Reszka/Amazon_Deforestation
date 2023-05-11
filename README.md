@@ -81,7 +81,7 @@ Deforestation happens for many reasons, such as illegal agriculture, natural dis
 1) intensity of total deforestation each year between 2004-2019 and number of fires
 2) intensity of deforestation in each region each year between 2004-2019 and number of fires
 
-![obraz.png](attachment:64aa382a-e961-4765-910f-9197454a5000.png)
+![obraz](https://github.com/Joanna-Reszka/Amazon_Deforestation/assets/97312220/3a2e1425-d554-4ccd-b4d9-3f267940e38c)
 
 
 #### Insights:
