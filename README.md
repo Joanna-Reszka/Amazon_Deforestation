@@ -4,6 +4,9 @@
 
 https://www.kaggle.com/datasets/mbogernetto/brazilian-amazon-rainforest-degradation
 <br />
+#### Team project at Data Science bootcamp at InfoShare Academy 
+https://github.com/infoshareacademy/jdszr12-databenders
+
 ## Introduction
 
 The Amazon rainforest is a moist broadleaf tropical rainforest in the Amazon biome that covers territory belonging to nine nations. The majority of the forest is contained within Brazil, with 60% of the rainforest, followed by Peru with 13%, Colombia with 10%, and with minor amounts in Venezuela, Ecuador, Bolivia, Guyana, Suriname and French Guiana.
